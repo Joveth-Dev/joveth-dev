@@ -1,8 +1,10 @@
 # <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f422.svg" width="48" /> Joveth Espiritu <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f422.svg" width="48" />
 
-**`Backend Developer — because someone has to make the buttons actually work.`**
+#### **`Backend Developer — because someone has to make the buttons actually work.`**
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/JovethDev)](https://x.com/JovethDev)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&labelColor=blue)](https://www.linkedin.com/in/joveth-espiritu/)
+[![Static Badge](https://img.shields.io/badge/(Formerly%20Twitter)-Follow-white?style=for-the-badge&logo=x&labelColor=black)](https://x.com/JovethDev)
+[![Static Badge](https://img.shields.io/badge/daily.dev-Follow-white?style=for-the-badge&logo=dailydotdev&labelColor=purple)](https://app.daily.dev/jovethespiritu)
 
 ---
 
