@@ -56,6 +56,8 @@ A dedicated backend service that handles large-scale integrations for various e-
 - *The Pragmatic Programmer* — Because my code deserves a little wisdom.
 - *Tech Articles* — Feeding my brain one byte at a time daily.
 
+<a href="https://app.daily.dev/jovethespiritu"><img src="./devcard.png" width="356" alt="Joveth's Dev Card"/></a>
+
 ---
 
 ## 💡 A Fact About Me
