@@ -28,6 +28,7 @@ A dedicated backend service that handles large-scale integrations for various e-
 
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![Django](https://skillicons.dev/icons?i=django)](https://docs.djangoproject.com/en/)
+[<img alt="Static Badge" src="https://img.shields.io/badge/DRF-red?style=for-the-badge" style="width: 5.2rem;">](https://www.django-rest-framework.org/)
 
 **Infrastructure & Tooling**
 
@@ -35,8 +36,10 @@ A dedicated backend service that handles large-scale integrations for various e-
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/docs/latest/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+
+[<img alt="Static Badge" src="https://img.shields.io/badge/Pytest-darkgreen?style=for-the-badge&logo=pytest" style="width: 9.8rem;">](https://docs.pytest.org/en/stable/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 
 ---
@@ -55,7 +58,7 @@ A dedicated backend service that handles large-scale integrations for various e-
 
 ---
 
-## 💡 Fun Fact About Me
+## 💡 A Fact About Me
 - *I like TURTLES!* — They’re like backend code: mostly hidden, but essential. <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f422.svg" width="25">
 
 ---
