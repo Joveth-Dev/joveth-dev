@@ -26,21 +26,21 @@ A dedicated backend service that handles large-scale integrations for various e-
 ## 🛠 Tech Stack
 **Languages & Frameworks**
 
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![Django](https://skillicons.dev/icons?i=django)](https://docs.djangoproject.com/en/)
-[<img alt="Static Badge" src="https://img.shields.io/badge/DRF-red?style=for-the-badge" style="width: 5.2rem;">](https://www.django-rest-framework.org/)
+<span title="Python">[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)</span>
+<span title="Django">[![Django](https://skillicons.dev/icons?i=django)](https://docs.djangoproject.com/en/)</span>
+<span title="Django REST Framework">[<img alt="Static Badge" src="https://img.shields.io/badge/DRF-red?style=for-the-badge" style="width: 5.2rem;">](https://www.django-rest-framework.org/)</span>
 
 **Infrastructure & Tooling**
 
-[<img alt="Static Badge" src="https://img.shields.io/badge/Celery-green?style=for-the-badge&logo=celery" style="width: 9.8rem;">](https://docs.celeryq.dev/en/stable/)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/docs/latest/)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+<span title="Celery">[<img alt="Static Badge" src="https://img.shields.io/badge/Celery-green?style=for-the-badge&logo=celery" style="width: 9.8rem;">](https://docs.celeryq.dev/en/stable/)</span>
+<span title="Redis">[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/docs/latest/)</span>
+<span title="PostgreSQL">[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)</span>
+<span title="MySQL">[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)</span>
 
-[<img alt="Static Badge" src="https://img.shields.io/badge/Pytest-darkgreen?style=for-the-badge&logo=pytest" style="width: 9.8rem;">](https://docs.pytest.org/en/stable/)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+<span title="Pytest">[<img alt="Static Badge" src="https://img.shields.io/badge/Pytest-darkgreen?style=for-the-badge&logo=pytest" style="width: 9.8rem;">](https://docs.pytest.org/en/stable/)</span>
+<span title="Postman">[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)</span>
+<span title="Docker">[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)</span>
+<span title="AWS">[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)</span>
 
 ---
 
