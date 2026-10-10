@@ -60,11 +60,13 @@ A dedicated backend service that handles large-scale integrations for various e-
 
 ---
 
+<!--
 ## 💡 A Fact About Me
 - *I like TURTLES!* — They’re like backend code: mostly hidden, but essential. <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f422.svg" width="25">
 
 ---
 
+-->
 ## 🎯 Goals
 - Master backend development  
 - Learn **Go (Golang)** and build production-grade backends with it  
